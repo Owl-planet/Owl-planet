@@ -31,6 +31,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Owl-planet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Owl-planet&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+#
+
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Owl-planet&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Owl-planet)
 
 <p align="center">
