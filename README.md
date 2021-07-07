@@ -36,7 +36,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<h1>Currently empty :(</h1>
+<h3>Currently empty :(</h3>
 </p>
 
 -----
