@@ -17,44 +17,8 @@
 </details>
 
 <details>
- <summary><b>💥 Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Sahiti-Dev/Website/pull/4) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-2. 🎉 Merged PR [#2](https://github.com/Sahiti-Dev/Website/pull/2) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-3. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
-5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
  <summary><b>💻Work Time</b></summary>
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 14 Contributions in the Year 2021
- > 
-> 📦 965.4 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-🌆 Daytime    174 commits    ████████████░░░░░░░░░░░░░   48.07% 
-🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   27.07% 
-🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3%
+<!--START_SECTION:waka--> 
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -74,7 +38,7 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Turkey/Istanbul
 
 💬 Programming Languages: 
 HTML                     15 hrs 31 mins      █████████████░░░░░░░░░░░░   53.45% 
