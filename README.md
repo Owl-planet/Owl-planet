@@ -1,4 +1,4 @@
-<img alt="Night Coding" width='40' align="left"/><h2>Hey there! I'm Onur</h2>
+<img width='40' align="left"/><h2>Hey there! I'm Onur</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
