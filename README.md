@@ -7,11 +7,13 @@
 🌱 &nbsp;I am on the way of developing windows app and web app applications.\
 ✍️ &nbsp;In my spare time, I deal with my hobbies and develop projects on paper.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies I use and learn(Tech Stack)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=Fastify)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=Mongodb)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Chart.js](https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
