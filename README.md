@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=Fastify)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
