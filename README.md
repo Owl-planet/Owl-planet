@@ -16,6 +16,7 @@
 ![Chart.js](https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Electron.js](https://img.shields.io/badge/-Electron.js-05122A?style=flat&logo=electron.js)&nbsp;
 ![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![F#](https://img.shields.io/badge/-FSharp-05122A?style=flat&logo=fsharp)&nbsp;
