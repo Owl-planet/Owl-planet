@@ -9,6 +9,7 @@
 
 ### 🛠 &nbsp;Technologies I use and learn(Tech Stack)
 
+![Cisco](https://img.shields.io/badge/-cisco-05122A?style=flat&logo=cisco)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=Fastify)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=Mongodb)&nbsp;
