@@ -50,8 +50,8 @@
 
 ### 🤝🏻 &nbsp;Projects
 
-<a href="http://tc002.herokuapp.com/">With Python</a>
-<a href="https://gabyonur.herokuapp.com/">With Vue</a>
+<a href="http://tc002.herokuapp.com/"><strong>With Python</strong></a><br>
+<a href="https://gabyonur.herokuapp.com/"><strong>With Vue</strong></a>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
