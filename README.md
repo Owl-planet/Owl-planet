@@ -57,7 +57,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <h3>Currently empty :(</h3>
+  <h2><strong>E-mail : OnurEkincii@protonmail.com</strong></h2>
 </p>
 
 -----
