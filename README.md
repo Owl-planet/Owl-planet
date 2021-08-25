@@ -50,7 +50,7 @@
 
 ### 💻 &nbsp;Projects
 
-<a href="http://tc002.herokuapp.com/"><strong>With Python</strong></a><br>
+<a href="http://tc002.herokuapp.com/"><strong>With Python (FLASK)<strong></a><br>
 <a href="https://gabyonur.herokuapp.com/"><strong>With Vue</strong></a>
 
 
