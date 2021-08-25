@@ -58,7 +58,7 @@
 
 <p align="center">
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
-  <h3><strong>Webex Group : <a href="https://asd.com">Join</a></strong></h3>
+  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join</a></strong></h3>
 </p>
 
 -----
