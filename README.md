@@ -35,7 +35,13 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  - ![#f03c15]aaaa `#f03c15`
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
   <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join -</a></strong></h3><b style="color:red;">Currently Inactive</b>
 </p>
