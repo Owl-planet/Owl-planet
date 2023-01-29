@@ -28,15 +28,15 @@
 
 ### 💻 &nbsp;Projects
 
-<a href="http://tc002.herokuapp.com/"><strong>With Python (FLASK)<strong></a><br>
-<a href="https://gabyonur.herokuapp.com/"><strong>With Vue</strong></a>
+<a href="http://tc002.herokuapp.com/"><strong>Made with Python (FLASK) - Inactive<strong></a><br>
+<a href="https://gabyonur.herokuapp.com/"><strong>Made with Vue - Inactive</strong></a>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
-  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join</a></strong></h3>
+  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join - <b>Currently Inactive</b></a></strong></h3>
 </p>
 
 -----
