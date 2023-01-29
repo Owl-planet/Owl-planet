@@ -1,5 +1,6 @@
 <img width='40' align="left"/><h2>Hey there! I'm Onur</h2>
-> __inactive__
+## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 ...
@@ -28,17 +29,15 @@
 
 ### 💻 &nbsp;Projects
 
-<a href="http://tc002.herokuapp.com/"><strong>Made with Python (FLASK) - <p style="color:red;">Inactive</p><strong></a><br>
-<a href="https://gabyonur.herokuapp.com/"><strong>Made with Vue - <b style="color:red;">Inactive</b></strong></a>
+<a href="http://tc002.herokuapp.com/"><strong>Made with Python (FLASK) -<strong></a><br>$${\color{red}Inactive}$$
+<a href="https://gabyonur.herokuapp.com/"><strong>Made with Vue -</strong></a>-$${\color{red}Inactive}$$
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
-  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join -</a></strong></h3><b style="color:red;">Currently Inactive</b>
+  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join - <b style="color:red;">Currently Inactive</b></a></strong></h3>
 </p>
 
 -----
