@@ -1,5 +1,5 @@
 <img width='40' align="left"/><h2>Hey there! I'm Onur</h2>
-> __Warning__
+> __inactive__
 ### 👨🏻‍💻 &nbsp;About Me
 
 ...
