@@ -35,13 +35,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
   <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join -</a></strong></h3><b style="color:red;">Currently Inactive</b>
 </p>
