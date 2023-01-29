@@ -28,7 +28,7 @@
 
 ### 💻 &nbsp;Projects
 
-<a href="http://tc002.herokuapp.com/"><strong>Made with Python (FLASK) - <b style="color:red;">Inactive</b><strong></a><br>
+<a href="http://tc002.herokuapp.com/"><strong>Made with Python (FLASK) - <p style="color:red;">Inactive</p><strong></a><br>
 <a href="https://gabyonur.herokuapp.com/"><strong>Made with Vue - <b style="color:red;">Inactive</b></strong></a>
 
 
