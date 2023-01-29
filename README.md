@@ -1,7 +1,7 @@
 <img width='40' align="left"/><h2>Hey there! I'm Onur</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-...
+Kod falan
 
 ### 🛠 &nbsp;Technologies I use and learn(Tech Stack)
 
