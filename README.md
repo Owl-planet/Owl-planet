@@ -2,10 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I love exploring new technologies and learning new things in the Cisco field.\
-🎓 &nbsp;I am currently learning electrical electronics and arduino in high school.\
-🌱 &nbsp;I am on the way of developing windows app and web app applications.\
-✍️ &nbsp;In my spare time, I deal with my hobbies and develop projects on paper.
+...
 
 ### 🛠 &nbsp;Technologies I use and learn(Tech Stack)
 
