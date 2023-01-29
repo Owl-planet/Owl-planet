@@ -36,7 +36,7 @@
 
 <p align="center">
   <h3><strong>E-mail : OnurEkincii@protonmail.com</strong></h3>
-  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join - <b style="color:red;">Currently Inactive</b></a></strong></h3>
+  <h3><strong>Webex Group : <a href="https://cutt.ly/PWykaxX">Join -</a></strong></h3><b style="color:red;">Currently Inactive</b>
 </p>
 
 -----
