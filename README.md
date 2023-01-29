@@ -26,24 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Owl-planet">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Owl-planet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Owl-planet&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Owl-planet&theme=onedark" alt="Owl-planet" /></a></p>
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Owl-planet&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p>
-</p>
-
 ### 💻 &nbsp;Projects
 
 <a href="http://tc002.herokuapp.com/"><strong>With Python (FLASK)<strong></a><br>
